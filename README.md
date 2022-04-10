@@ -20,6 +20,8 @@
 
 <h3 align="center"> Calculator of Ordinary Differential Equations (ODE) (with 3 methods)</h3>
 
+Supervised by our EDO teacher at IPSA.
+  
 <img src="edo.png">
 
 
