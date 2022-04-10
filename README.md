@@ -15,7 +15,8 @@
 <div align="center">
 
 ![School](https://img.shields.io/badge/School-IPSA-cyan?&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.9-brightgreen?&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10-brightgreen?&style=for-the-badge)
 
 <h3 align="center"> Calculator of Ordinary Differential Equations (ODE) (with 3 methods)</h3>
 
